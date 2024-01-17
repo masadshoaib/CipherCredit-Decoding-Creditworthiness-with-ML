@@ -19,3 +19,13 @@ and ~1,000,000 rows
 
 ## ML Pipeline
 <img width="724" alt="image" src="https://github.com/masadshoaib/Machine-Learning-for-Credit-Card-Application-Review/assets/56289860/8d5412d9-9736-4105-9907-ef3f8f74dbc7">
+
+## Results
+Random Forest performed the best after tuning hyperparameters. The results are shown below:
+<img width="552" alt="image" src="https://github.com/masadshoaib/Machine-Learning-for-Credit-Card-Application-Review/assets/56289860/645884be-838d-4f2b-859e-af65d156682e">
+
+Based on the feature importances of the variables, we recommend:
+- Age and employment critical to approving credit card apps
+- Have tailored strategies for different age groups and employment categories
+- Consider personalized credit offerings based on family dynamics
+
