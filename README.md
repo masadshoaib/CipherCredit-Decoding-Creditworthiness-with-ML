@@ -1,4 +1,4 @@
-# CipherCredit: Decoding Creditworthiness with Advanced ML
+# CipherCredit: Decoding Creditworthiness with Machine Learning
 
 Credit scoring is becoming increasingly vital in financial decisions. Forbes reported an average credit card debt of $5,474 per borrower in Q3 2022, totaling $38 billion. The intersection of technology and finance, notably in credit evaluation, is rapidly evolving. This project aims to utilize machine learning to assess 'good' or 'bad' credit risks, offering insights into improving traditional financial models by utilizing the dataset found on Kaggle.
 
